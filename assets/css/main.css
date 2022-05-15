@@ -31,6 +31,12 @@ footer, header, hgroup, menu, nav, section {
 text-align:center;
 color:white;
 }
+#bodybackground {
+    background-image: url(/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 body {
   line-height: 1;
   background-color: green;}
