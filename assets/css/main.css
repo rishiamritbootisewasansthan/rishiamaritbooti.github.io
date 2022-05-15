@@ -27,7 +27,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 #bodybackground{
-background-image: url(1.jpg);
+background-image: url('1.jpg');
 background-size: cover;
 }
 #bodybackground > h1{
