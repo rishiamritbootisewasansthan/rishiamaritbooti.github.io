@@ -1,3 +1,4 @@
+<?php 
 <!DOCTYPE HTML>
 
 <html>
@@ -12,3 +13,4 @@
     <h1 style="text-align:center;color:white;">Guruji Govind- Ayurvedacharya & Spiritual Yoga Guru, India</h1>
 	</body>
 </html>
+?>
